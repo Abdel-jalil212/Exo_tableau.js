@@ -10,4 +10,4 @@ console.log(objet.nom)// Exercice 6
 var nombre= 95.2727
 nombre.toFixed(2)// Exercice 7
 var date= Date.now()
-console.log (getMonth)// Exercice 8
+console.log (getMonth)// Exercice 8_____
